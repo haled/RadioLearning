@@ -34,7 +34,7 @@ samples = numpy.empty(len(sdr.buffer) * 100, numpy.complex64)
 
 # Receive all samples
 sdr.read_stream_into_buffer(samples)
-w = open("simplesoapy.wav", "wb")
+w = open("x.wav", "wb")
 demod_bytes = numpy.dstack(demod.run(samples))
 w.write(demod_bytes)
 w.close()

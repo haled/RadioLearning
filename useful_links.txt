@@ -1,0 +1,5 @@
+https://myriadrf.org/news/limesdr-made-simple-part-8-c-examples-soapysdr-api/
+
+https://github.com/pothosware/SoapySDR/blob/master/include/SoapySDR/Device.h  (Soapy API)
+
+https://docs.deepwavedigital.com/Tutorials/1_hello_world.html
